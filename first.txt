@@ -1,4 +1,0 @@
-printf("Hello World!");
-printf("My name Ivan!");
-printf("What is you name?");
-
