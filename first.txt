@@ -1,6 +1,4 @@
 printf("Hello World!");
 printf("My name Ivan!");
-<<<<<<< HEAD
-=======
 printf("What is you name?");
->>>>>>> master
+
